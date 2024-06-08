@@ -1,4 +1,4 @@
-```math
+```cpp
 hello,
 i am currently reverse engineering loaders, learning assembly and coding velocity products
 
