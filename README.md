@@ -1,6 +1,9 @@
 ```cpp
-hello,
-i am currently reverse engineering loaders, learning assembly, coding, or learning other decompilers
+hello user, currently i am
+new: doing graphic designing, js started, and learning through the way. check my progress here: 
+• http://129.153.1.241/ShaffGraphics/
+
+old: reverse engineering loaders, learning assembly, coding, or learning other decompilers
 
 nothing in my repos are interesting except the cracks repo, everything else is becoming old, ignore em.
 
